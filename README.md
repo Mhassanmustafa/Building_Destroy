@@ -7,3 +7,7 @@ Blender is the free and open source 3D creation suite. It supports the entirety 
 ## Demo
 
 ![ScreenShot](https://i.postimg.cc/Y21yT4vy/ezgif-com-gif-maker.gif)
+
+### try it on local machine
+
+- just open blender file in blender
